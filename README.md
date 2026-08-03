@@ -6,7 +6,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-JoniCore--X-181717?style=for-the-badge&logo=github)](https://github.com/JoniCore-X)
 [![Morning Star AI](https://img.shields.io/badge/Proyecto-Morning_Star_AI-6f42c1?style=for-the-badge&logo=github)](https://github.com/JoniCore-X/Morning_Star.ai)
-[![Substack](https://img.shields.io/badge/Substack-Leer_mis_publicaciones-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://jonielmartinez.substack.com)
 
 </div>
 
@@ -72,7 +71,7 @@ Plataforma cristiana de estudio bíblico con IA local, desarrollada alrededor de
 
 ## Conectemos
 
-Si te interesan la inteligencia artificial, la automatización o los productos digitales con propósito, explora los repositorios de **JoniCore-X** o visita [Substack](https://jonielmartinez.substack.com).
+Si te interesan la inteligencia artificial, la automatización o los productos digitales con propósito, explora los repositorios de **JoniCore-X**.
 
 <div align="center">
 

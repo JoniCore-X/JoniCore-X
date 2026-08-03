@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hola, soy Joniel Martínez 👋
+# JoniCore-X
 
-### Construyo sistemas de IA, automatización y productos digitales con propósito.
+### Inteligencia artificial, automatización y productos digitales con propósito.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Joniel--code-181717?style=for-the-badge&logo=github)](https://github.com/Joniel-code)
-[![Morning Star AI](https://img.shields.io/badge/Proyecto-Morning_Star_AI-6f42c1?style=for-the-badge&logo=github)](https://github.com/Joniel-code/Morning_Star.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-JoniCore--X-181717?style=for-the-badge&logo=github)](https://github.com/JoniCore-X)
+[![Morning Star AI](https://img.shields.io/badge/Proyecto-Morning_Star_AI-6f42c1?style=for-the-badge&logo=github)](https://github.com/JoniCore-X/Morning_Star.ai)
 [![Substack](https://img.shields.io/badge/Substack-Leer_mis_publicaciones-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://jonielmartinez.substack.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## Sobre JoniCore-X
 
-Soy desarrollador y creador de productos enfocado en convertir ideas complejas en herramientas útiles. Trabajo especialmente en:
+**JoniCore-X** es una identidad de creación tecnológica enfocada en convertir ideas complejas en herramientas útiles. Sus áreas principales son:
 
 - **Inteligencia artificial local** y modelos ejecutados sin depender de APIs externas.
 - **RAG y búsqueda semántica** sobre fuentes verificables.
@@ -22,11 +22,11 @@ Soy desarrollador y creador de productos enfocado en convertir ideas complejas e
 - **Automatización** de procesos y flujos digitales.
 - **Seguridad aplicada a IA**, con validación de entradas y respuestas.
 
-Me interesa construir tecnología que sea práctica, responsable y capaz de producir un impacto real.
+El objetivo es construir tecnología práctica, responsable y capaz de producir un impacto real.
 
 ## Proyecto destacado
 
-### [Morning Star AI](https://github.com/Joniel-code/Morning_Star.ai)
+### [Morning Star AI](https://github.com/JoniCore-X/Morning_Star.ai)
 
 Plataforma cristiana de estudio bíblico con IA local, desarrollada alrededor de una arquitectura modular:
 
@@ -54,7 +54,7 @@ Plataforma cristiana de estudio bíblico con IA local, desarrollada alrededor de
 
 </div>
 
-## En qué estoy trabajando
+## En desarrollo
 
 - Sistemas de IA local con privacidad y control de costos.
 - Experiencias conversacionales respaldadas por fuentes verificables.
@@ -65,14 +65,14 @@ Plataforma cristiana de estudio bíblico con IA local, desarrollada alrededor de
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joniel-code&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub de Joniel" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joniel-code&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados por Joniel" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JoniCore-X&show_icons=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub de JoniCore-X" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoniCore-X&layout=compact&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados por JoniCore-X" />
 
 </div>
 
 ## Conectemos
 
-Si te interesan la inteligencia artificial, la automatización o los productos digitales con propósito, puedes explorar mis repositorios o leer mis publicaciones en [Substack](https://jonielmartinez.substack.com).
+Si te interesan la inteligencia artificial, la automatización o los productos digitales con propósito, explora los repositorios de **JoniCore-X** o visita [Substack](https://jonielmartinez.substack.com).
 
 <div align="center">
 
